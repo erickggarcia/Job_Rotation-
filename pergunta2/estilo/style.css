@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(37, 117, 122);
+    height: 100vh;
+    width: 100vw;
+    font-size: 1.5rem;
+}
+
+section {
+    background-color: white;
+    max-width: 550px;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.invisible { 
+    background-color: transparent;
+    color: transparent;
+    border: transparent;
+}
